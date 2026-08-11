@@ -1,6 +1,6 @@
 # Isha Jagdale
 
-**Software Developer | Android & Mobile Application Developer | Python & SQL Enthusiast**
+Software Developer | Android & Mobile Application Developer | Python & SQL Enthusiast
 
 Nashik, Maharashtra, India
 [ishajagdale07@gmail.com](mailto:ishajagdale07@gmail.com)
@@ -62,7 +62,7 @@ Object-Oriented Programming, Data Structures, Debugging, Testing, Problem Solvin
 
 ### Android Developer Intern — GM Innovex
 
-**Nashik, Maharashtra | January 2026 – June 2026**
+Nashik, Maharashtra | January 2026 – June 2026
 
 * Developed Android application features using Kotlin and Jetpack Compose following modern Android development practices.
 * Contributed to an education-based live project by designing and implementing responsive user interfaces.
