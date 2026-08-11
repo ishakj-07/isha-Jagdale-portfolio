@@ -3,7 +3,7 @@
 Software Developer | Android & Mobile Application Developer | Python & SQL Enthusiast
 
 Nashik, Maharashtra, India
-[ishajagdale07@gmail.com](mailto:ishajagdale07@gmail.com)
+[ishajagdale07@gmail.com](mailto:ishajagdale07@gmail.com)|
 [LinkedIn](https://linkedin.com/in/isha-jagdale-) | [GitHub](https://github.com/ishakj-07)
 
 ---
@@ -248,7 +248,7 @@ I am interested in opportunities in:
 
 **Email:** [ishajagdale07@gmail.com](mailto:ishajagdale07@gmail.com)
 
-**LinkedIn:** [linkedin.com/in/isha-jagdale-](https://linkedin.com/in/isha-jagdale-)
+**LinkedIn:** [linkedin.com/in/isha-jagdale](https://www.linkedin.com/in/isha-jagdale-7559a92b9/)
 
 **GitHub:** [github.com/ishakj-07](https://github.com/ishakj-07)
 
